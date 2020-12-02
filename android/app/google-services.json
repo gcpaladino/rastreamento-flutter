@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280166758323",
+    "firebase_url": "https://rastreamento-ac921.firebaseio.com",
+    "project_id": "rastreamento-ac921",
+    "storage_bucket": "rastreamento-ac921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280166758323:android:7ae5deb2073b4e2b88bdc6",
+        "android_client_info": {
+          "package_name": "br.com.mana.mob.manamobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280166758323-u5e5j15itq3p7mpibaffh8qc0d5sa4av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.mana.mob.manamobi",
+            "certificate_hash": "5f6891d2904f470edb449db59351d6add7b70abf"
+          }
+        },
+        {
+          "client_id": "280166758323-lqqf4sffuo415eedb0du4838e7m5nlkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xYroq7YCZsPT02x2gWNCNZxewf04WAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280166758323-lqqf4sffuo415eedb0du4838e7m5nlkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
